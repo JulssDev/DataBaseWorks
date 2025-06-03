@@ -93,6 +93,3 @@ Los disparadores son una herramienta poderosa que mejora la calidad y control so
 
 Idealmente, se deben emplear para **reforzar la lógica crítica de negocio**, mantener integridad o registrar cambios importantes. Siempre que se usen de manera clara y documentada, aportan valor real a las soluciones basadas en bases de datos.
 
----
-
-*Elaborado como parte de la práctica de programación en bases de datos con PostgreSQL.*
